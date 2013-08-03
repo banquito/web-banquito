@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Clodo <clodo@elgalpondebanquito.com.ar>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in function
+#: featherlite/functions.php:131
+msgid "%1$s"
+msgstr ""
+
+#. Text in echo
+#: featherlite/404.php:32
+msgid "<p class=\"page_error\">Page not found.</p"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:128
+msgid "<span class=\"comment-author\">%s</span>"
+msgstr ""
+
+#. Text in echo
+#: featherlite/sitemap.php:107
+msgid "All Blog Posts"
+msgstr "Todos los posts"
+
+#. Text in echo
+#: featherlite/sitemap.php:76
+msgid "Archives"
+msgstr "Archivos"
+
+#. Text in echo
+#: featherlite/footer.php:15
+msgid "Back to Top"
+msgstr "Arriba"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:159
+msgid "COMMENT"
+msgstr "COMENTARIO"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:165
+msgid "COMMENTS"
+msgstr "COMENTARIOS"
+
+#. Text in echo
+#: featherlite/sitemap.php:31
+msgid "Categories"
+msgstr "Categorías"
+
+#. Text in echo
+#: featherlite/content-gallery.php:38 featherlite/content-quote.php:38
+#: featherlite/search.php:58 featherlite/content-link.php:38
+#: featherlite/comments.php:27 featherlite/single.php:111
+#: featherlite/content.php:38 featherlite/content-audio.php:44
+#: featherlite/content-video.php:38
+msgid "Comment"
+msgstr "Comentario"
+
+#. Text in echo
+#: featherlite/sitemap.php:72
+msgid "Comment Feed"
+msgstr "Feed de comentarios"
+
+#. Text in echo
+#: featherlite/content-gallery.php:44 featherlite/content-quote.php:44
+#: featherlite/search.php:64 featherlite/content-link.php:44
+#: featherlite/comments.php:31 featherlite/single.php:117
+#: featherlite/content.php:44 featherlite/content-audio.php:50
+#: featherlite/content-video.php:44
+msgid "Comments"
+msgstr "Comentarios"
+
+#. Text in echo
+#: featherlite/comments.php:46
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. Text in function
+#: featherlite/functions.php:1
+msgid "Custom 1 Menu"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:1
+msgid "Custom 2 Menu"
+msgstr ""
+
+#. Text in echo
+#: featherlite/single-portgallery.php:132 featherlite/single.php:87
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#. Text in echo
+#: featherlite/sitemap.php:67
+msgid "Feeds"
+msgstr ""
+
+#. Text in echo
+#: featherlite/sitemap.php:71
+msgid "Full content"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "Galleries"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "Gallery Category"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "Gallery Item"
+msgstr ""
+
+#. Text in echo
+#: featherlite/single-portgallery.php:134 featherlite/single.php:89
+msgid "Google +"
+msgstr ""
+
+#. Text in echo
+#: featherlite/sitemap.php:71
+msgid "Main RSS"
+msgstr "RSS principal"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:226 featherlite/single.php:178
+msgid "Next Post:"
+msgstr "Siguiente Post:"
+
+#. Text in function
+#: featherlite/sitemap.php:35
+msgid "No categories"
+msgstr ""
+
+#. Text in echo
+#: featherlite/sitemap.php:91
+msgid "Pages"
+msgstr "Páginas"
+
+#. Text in echo
+#: featherlite/sitemap.php:115
+msgid "Permanent Link to"
+msgstr "Permalinks a"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:135 featherlite/single.php:90
+msgid "Pinterest"
+msgstr ""
+
+#. Text in echo
+#: featherlite/single-portgallery.php:197 featherlite/single.php:149
+msgid "Post Details"
+msgstr "Dtalles del Post"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:144 featherlite/single.php:103
+msgid "Posted In:"
+msgstr "Posteado En:"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:143 featherlite/single.php:102
+msgid "Posted On:"
+msgstr "Posteado El:"
+
+#. Text in echo
+#: featherlite/single-portgallery.php:220 featherlite/single.php:172
+msgid "Previous Post:"
+msgstr "Post Anterior:"
+
+#. Text in function
+#: featherlite/functions.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content-gallery.php:66 featherlite/search.php:84
+#: featherlite/content.php:71 featherlite/content-audio.php:105
+#: featherlite/content-video.php:82
+msgid "Read More"
+msgstr "Seguir Leyendo"
+
+#. Text in echo
+#: featherlite/search.php:17
+msgid "Results For: "
+msgstr "Resultados De:"
+
+#. Text in echo
+#: featherlite/searchform.php:5
+msgid "Search"
+msgstr "Buscar"
+
+#. Text in echo
+#: featherlite/search.php:8
+msgid "Show/View your stuffs"
+msgstr "Mostrar/Ver tus cosas"
+
+#. Text in echo
+#: featherlite/sitemap.php:21
+msgid "Sitemap"
+msgstr ""
+
+#. Text in echo
+#: featherlite/single.php:100
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: featherlite/page.php:38 featherlite/single-portgallery.php:206
+#: featherlite/search.php:101 featherlite/single.php:158
+msgid "There are no posts to display. Try using the search."
+msgstr "No se enconraron posts. Probá usando la búsqueda."
+
+#. Text in echo
+#: featherlite/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: featherlite/single-portgallery.php:133 featherlite/single.php:88
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "View all items filed under %s"
+msgstr ""
+
+#. Text in function
+#: featherlite/single-portgallery.php:144 featherlite/taxonomy-types.php:40
+#: featherlite/template-portgallery.php:46
+msgid "View all posts in %s"
+msgstr "Ver todos los post en %s"
+
+#. Text in echo
+#: featherlite/functions.php:139
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#. Text in echo
+#: featherlite/content-audio.php:27
+msgid "audio post"
+msgstr ""
+
+#. Text in function
+#: featherlite/functions.php:161
+msgid "galleries"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content-gallery.php:21
+msgid "gallery post"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content-link.php:21
+msgid "link post"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content-quote.php:21
+msgid "quote post"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content.php:21
+msgid "standard post"
+msgstr ""
+
+#. Text in echo
+#: featherlite/content-video.php:21
+msgid "video post"
+msgstr ""
