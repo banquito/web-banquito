@@ -2401,12 +2401,14 @@ ol.audio-list li a:hover {
 #side_logo2 img {
 	height: auto;
 	width: 100%;
+	background-color: white;
 	}
 	
 #side_logo2 {
 	float:left;
 	margin-left:15px;
-	margin-bottom:20px;
+	/* margin-bottom:20px; */
+	margin-bottom:0px;
 	}
 	
 div#control, div#linkblock {
@@ -2422,7 +2424,8 @@ div#linkblock2 {
     float: left;
     font-size: 14px;
 	width:100%;
-	background-color:#333740;
+	/* background-color:#333740; */
+	background-color: white;
 	}
 	
 .textwidget, .tagcloud {
@@ -2465,7 +2468,8 @@ nav {
 /* Mobile Landscape Size to Tablet Landscape (devices and browsers) */
 @media only screen and (max-width: 480px) {
 	#side_logo2 {
-		margin-bottom:20px;
+		/* margin-bottom:20px; */
+		margin-bottom:0px;
 		}
 		
 	.comment_wrapper input[type="text"], .comment_wrapper input[type="email"], .comment_wrapper input[type="password"], .comment_wrapper textarea, input[type="text"], input[type="email"], input[type="password"], textarea {
