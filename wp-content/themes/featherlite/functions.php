@@ -438,7 +438,8 @@ add_filter('widget_text', 'do_shortcode');
 //////////////////////          Trim The Excerpt           /////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////
 function trim_excerpt($text) {
-  return rtrim($text,'[...]');
+  //return rtrim($text,'[...]');
+    return $text;
 }
 add_filter('get_the_excerpt', 'trim_excerpt');
 
