@@ -702,7 +702,7 @@ strong {
 div#side_logo {
 	/*width: 100%;*/
 	padding: 10px 0px 10px 16px;
-	background-color: white;
+	background-color: #FAFAFA;
 	}
 
 /* sidebar toggle styling */
@@ -2401,7 +2401,7 @@ ol.audio-list li a:hover {
 #side_logo2 img {
 	height: auto;
 	width: 100%;
-	background-color: white;
+	background-color: #FAFAFA;
 	}
 	
 #side_logo2 {
