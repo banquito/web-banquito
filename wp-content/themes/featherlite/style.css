@@ -1161,19 +1161,23 @@ a.featured_image {
 	padding:0;
 	opacity: 1.0;
 	filter: alpha(opacity=100);
+	/*
 	-webkit-transition: all 1s ease 0s;
 	-moz-transition: all 1s ease 0s;
 	-ms-transition: all 1s ease 0s;
 	-o-transition: all 1s ease 0s;
 	transition: all 1s ease 0s;
+	*/
 	}
 	
 a.featured_image:hover {
 	border-bottom:none;
 	background:none no-repeat scroll 0 0 transparent;
 	padding:0;
+	/*
 	opacity: .5;
 	filter: alpha(opacity=50);
+	*/
 	}
 	
 	
@@ -2240,17 +2244,21 @@ ol.audio-list li a:hover {
 	padding:0;
 	opacity: 1.0;
 	filter: alpha(opacity=100);
+	/*
 	-webkit-transition: all 1s ease 0s;
 	-moz-transition: all 1s ease 0s;
 	-ms-transition: all 1s ease 0s;
 	-o-transition: all 1s ease 0s;
 	transition: all 1s ease 0s;
+	*/
 	}
 	
 .portgallery_wrapper a img:hover {
 	background-color:transparent !important;
+	/*
 	opacity: .5;
 	filter: alpha(opacity=50);
+	*/
 	}
 	
 .portgallery2 {
