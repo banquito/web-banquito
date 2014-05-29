@@ -1,9 +1,12 @@
 /* Global Styles */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
 html,
 body {
   height: 100%;
   width: 100%;
+  font-family: 'Open Sans', sans-serif
+  font-weight: 300;
 }
 
 .vert-text {
@@ -16,7 +19,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 4.5em;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 /* Side Menu */
